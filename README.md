@@ -7,6 +7,7 @@
 | Colab | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FreeNoise-AnimateDiff-colab/blob/main/FreeNoise_AnimateDiff_colab.ipynb) | FreeNoise_AnimateDiff_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FreeNoise-AnimateDiff-colab/blob/main/FreeNoise_AnimateDiff_gradio_colab.ipynb) | FreeNoise_AnimateDiff_gradio_colab
 
 ### 🧬 Code
 https://github.com/arthur-qiu/FreeNoise-AnimateDiff
