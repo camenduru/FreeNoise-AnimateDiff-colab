@@ -24,3 +24,5 @@ http://haonanqiu.com/projects/FreeNoise.html
 ![2-photo-of-coastline,-rocks,-storm-weather,-wind,-waves,-lightning,-8k](https://github.com/camenduru/FreeNoise-AnimateDiff-colab/assets/54370274/61740402-2507-4d8b-b0b8-88c2f4cde28f)
 ![1-close-up-photo-of-a-rabbit,-forest,-haze,-halation,-bloom,](https://github.com/camenduru/FreeNoise-AnimateDiff-colab/assets/54370274/f5908eba-1945-442f-aa32-2ba4a9f0a35a)
 
+### 🏢 Sponsor
+https://replicate.com
